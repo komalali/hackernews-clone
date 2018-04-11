@@ -1,4 +1,4 @@
-### Hacker News Clone
+### Hackernews Clone
 
 Trying to learn how to use GraphQL.
 
